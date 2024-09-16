@@ -1,0 +1,47 @@
+[
+    {
+        "name": "help",
+        "description": "🛠️ !help [lệnh] - Hiển thị thông tin chi tiết về các lệnh của bot. Ví dụ: !help !bj",
+        "icon": "🛠️"
+    },
+    {
+        "name": "bj",
+        "description": "🃏 !bj [số tiền] [@Tên người dùng] - Gửi lời mời chơi bài cho người khác. Tất cả người chơi cần phải có đủ tiền cược để bắt đầu.",
+        "icon": "🃏"
+    },
+    {
+        "name": "accept",
+        "description": "✅ !accept - Chấp nhận lời mời chơi bài từ người khác. Sau khi chấp nhận, trò chơi sẽ được bắt đầu.",
+        "icon": "✅"
+    },
+    {
+        "name": "decline",
+        "description": "❌ !decline - Từ chối lời mời chơi bài. Lời mời sẽ bị xóa khỏi danh sách.",
+        "icon": "❌"
+    },
+    {
+        "name": "cancel",
+        "description": "🚫 !cancel - Hủy bỏ lời mời chơi bài mà bạn đã gửi.",
+        "icon": "🚫"
+    },
+    {
+        "name": "spin",
+        "description": "🎰 !spin - Quay vòng quay may mắn với chi phí 5000. Bạn có thể nhận tiền hoặc các khoáng sản hoặc động vật.",
+        "icon": "🎰"
+    },
+    {
+        "name": "mine",
+        "description": "⛏️ !mine - Đào khoáng sản từ hệ thống. Sau khi đào, khoáng sản sẽ được lưu vào kho và bạn có thể bán chúng bằng lệnh !sinv.",
+        "icon": "⛏️"
+    },
+    {
+        "name": "sinv",
+        "description": "💰 !sinv - Bán tất cả các con vật và khoáng sản trong kho của bạn. Nhận tiền và XP dựa trên số lượng và giá trị của các mặt hàng.",
+        "icon": "💰"
+    },
+    {
+        "name": "daily",
+        "description": "📅 !daily - Nhận phần thưởng hàng ngày miễn phí. Bạn nhận được 5000 tiền và cộng thêm 1% mỗi 5 cấp độ.",
+        "icon": "📅"
+    }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "uid": "100076316652896",
+    "efficiency": {
+      "level": 0,
+      "value": 1,
+      "upgradeCost": 0,
+      "remainingEssence": 0
+    },
+    "gain": {
+      "level": 0,
+      "value": 5,
+      "upgradeCost": 0
+    },
+    "duration": {
+      "level": 0,
+      "value": 30,
+      "upgradeCost": 0
+    },
+    "essence": 888,
+    "lastHunt": 1725437462517
+  },
+  {
+    "uid": "100093329284015",
+    "efficiency": {
+      "level": 0,
+      "value": 1,
+      "upgradeCost": 0,
+      "remainingEssence": 0
+    },
+    "gain": {
+      "level": 0,
+      "value": 5,
+      "upgradeCost": 0
+    },
+    "duration": {
+      "level": 0,
+      "value": 30,
+      "upgradeCost": 0
+    },
+    "essence": 0,
+    "lastHunt": 1725441006480
+  }
+]

@@ -1,0 +1,25 @@
+{
+    "segments": [
+      { "name": "Không nhận được gì", "probability": 30 },
+      { "name": "Quay lại", "probability": 30 },
+      { "name": "Tiền mặt", "probability": 10, "value": 10000 },
+      { "name": "Tiền mặt", "probability": 10, "value": 20000 },
+      { "name": "Tiền mặt", "probability": 10, "value": 30000 },
+      { "name": "Tiền mặt", "probability": 5, "value": 50000 },
+      { "name": "XP", "probability": 10, "value": 500 },
+      { "name": "XP", "probability": 10, "value": 1000 },
+      { "name": "XP", "probability": 5, "value": 1500 },
+      { "name": "Khoáng sản", "probability": 10, "value": "Gold" },
+      { "name": "Khoáng sản", "probability": 10, "value": "Silver" },
+      { "name": "Khoáng sản", "probability": 10, "value": "Iron" },
+      { "name": "Khoáng sản", "probability": 5, "value": "Diamond" },
+      { "name": "Khoáng sản", "probability": 5, "value": "Platinum" },
+      { "name": "Con vật", "probability": 5, "value": "Lion" },
+      { "name": "Con vật", "probability": 5, "value": "Tiger" },
+      { "name": "Con vật", "probability": 5, "value": "Elephant" },
+      { "name": "Con vật", "probability": 5, "value": "Panda" },
+      { "name": "Con vật", "probability": 5, "value": "Giraffe" },
+      { "name": "Con vật", "probability": 5, "value": "Kangaroo" }
+    ]
+  }
+  

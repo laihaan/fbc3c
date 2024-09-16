@@ -1,0 +1,26 @@
+[
+  {
+    "senderID": "100076316652896",
+    "receiverID": "61552681619781",
+    "betAmount": 500,
+    "status": "pending"
+  },
+  {
+    "senderID": "100076316652896",
+    "receiverID": "100040644795231",
+    "betAmount": 10000,
+    "status": "pending"
+  },
+  {
+    "senderID": "100082683103810",
+    "receiverID": "100076316652896",
+    "betAmount": 29000000,
+    "status": "pending"
+  },
+  {
+    "senderID": "100082683103810",
+    "receiverID": "100076316652896",
+    "betAmount": 20000000,
+    "status": "pending"
+  }
+]
